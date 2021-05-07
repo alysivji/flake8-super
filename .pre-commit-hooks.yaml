@@ -1,0 +1,7 @@
+- id: flake8-super
+  name: flake8-super
+  description: "Python 3 super() check for flake8"
+  entry: flake8
+  language: python
+  types: [python]
+  require_serial: true
